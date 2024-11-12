@@ -1,5 +1,7 @@
 # Grayscale Image Tutorial
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-grayscale/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-grayscale/actions/workflows/ci-tests.yml)
+
 Extract pixel intensity information from a grayscale plant image of tobacco. 
 
 It is a good idea to capture a test image and process it using PlantCV (or any other software that you might use) before capturing a full set of data. It is ALWAYS best to try to reduce potential image processing problems up front, rather than to try to process 'bad' / inconsistent images.
