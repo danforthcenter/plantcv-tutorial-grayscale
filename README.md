@@ -1,6 +1,5 @@
 # Grayscale Image Tutorial
 
-[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-grayscale/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-grayscale/actions/workflows/ci-tests.yml)
 
 Extract pixel intensity information from a grayscale plant image of tobacco. 
 
@@ -8,6 +7,10 @@ It is a good idea to capture a test image and process it using PlantCV (or any o
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-template/HEAD)
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-grayscale/blob/main/index-Colab.ipynb)
+
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-grayscale/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-grayscale/actions/workflows/ci-tests.yml)
 
 ## Tutorial tags/keywords
 
